@@ -1,8 +1,11 @@
 import React from 'react'
+import NavBar from './components/Navbar/NavBar'
 
 function App() {
   return (
-    <div>App</div>
+    <main className='overflow-x-hidden bg-white text-dark'>
+      <NavBar/>
+    </main>
   )
 }
 
