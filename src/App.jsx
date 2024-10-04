@@ -4,6 +4,7 @@ import Banner from './components/Banner/Banner'
 import Banner2 from './components/Banner/Banner2'
 import Services from './components/Services/Services'
 import Subscribe from './components/Subscribe/Subscribe'
+import Footer from './components/Footer/Footer'
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Banner />
       <Subscribe/>
       <Banner2/>
+      <Footer/>
     </main>
   )
 }
