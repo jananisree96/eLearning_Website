@@ -1,12 +1,7 @@
 Live link - https://e-learning-website-2a2s.vercel.app/
 
 ### React App with Tailwind CSS
-
-This React component is the main structure of a webpage, styled using Tailwind CSS. It imports several child components (`Hero`, `Services`, `Banner`, `Banner2`, `Subscribe`, and `Footer`) to compose the layout. The `App` component is wrapped in a `main` element, which uses Tailwind CSS classes like:
-
-- `overflow-x-hidden`: To prevent horizontal scrolling.
-- `bg-white`: Sets the background color to white.
-- `text-dark`: Applies dark-colored text.
+it's a LearnHub eLearning website.I'm using React and Tailwind css for responsive.
 
 #### Components:
 - **Hero**: Represents the hero section, typically used to highlight important content with a large image or heading.
