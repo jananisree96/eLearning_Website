@@ -1,7 +1,7 @@
 Live link - https://e-learning-website-2a2s.vercel.app/
 
 ### React App with Tailwind CSS
-it's a LearnHub eLearning website.I'm using React and Tailwind css for responsive.
+it's a LearnHub eLearning website.I'm using React and Tailwind css for responsive...
 
 #### Components:
 - **Hero**: Represents the hero section, typically used to highlight important content with a large image or heading.
